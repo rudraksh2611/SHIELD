@@ -1,5 +1,13 @@
 # Heart Disease Prediction using Machine Learning
 
+## Introduction
+
+Heart disease is a leading cause of death worldwide, and early detection and prevention are crucial for improving patient outcomes. Machine learning has emerged as a powerful tool for predicting heart disease risk based on patient characteristics and medical history. This project explores the application of various machine learning models, including hybrid approaches, to predict the presence of heart disease.
+
+## Motivation
+
+The motivation behind this project stems from the significant impact of heart disease on individuals and public health. Early and accurate prediction of heart disease risk can enable timely intervention and preventive measures, potentially saving lives and reducing healthcare costs. By leveraging machine learning, we aim to develop a predictive model that can assist medical professionals in identifying individuals at high risk and guiding them towards appropriate care.
+
 ## Overview
 
 This project aims to predict the presence of heart disease using a variety of machine learning models, including hybrid approaches. It utilizes the "Heart Disease UCI" dataset, available on Kaggle and the UCI Machine Learning Repository, to train and evaluate various classification algorithms. The project explores data preprocessing, exploratory data analysis, model building, and performance evaluation to identify the most effective model for predicting heart disease.
