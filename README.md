@@ -48,3 +48,16 @@ To run this project:
 
 1. **Environment:** Use Python 3.x with Jupyter Notebook or Google Colab.
 2. **Dependencies:** Install the necessary libraries using:
+```Bash
+pip install pandas numpy scikit-learn xgboost seaborn matplotlib
+```
+3. **Data:** Download the "Heart Disease UCI" dataset and place it in the project directory.
+4. **Execution:** Open the Jupyter Notebook and run the code cells sequentially.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgments
+
+This project was inspired by various resources, including the UCI Machine Learning Repository, Kaggle datasets, and online tutorials. We acknowledge the contributions of the dataset creators and the open-source community.
